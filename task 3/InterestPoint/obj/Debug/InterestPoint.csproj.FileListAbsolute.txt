@@ -1,0 +1,6 @@
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\bin\Debug\InterestPoint.exe.config
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\bin\Debug\InterestPoint.exe
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\bin\Debug\InterestPoint.pdb
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\obj\Debug\InterestPoint.csprojResolveAssemblyReference.cache
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\obj\Debug\InterestPoint.exe
+c:\users\simidev\documents\visual studio 2017\Projects\InterestPoint\InterestPoint\obj\Debug\InterestPoint.pdb
